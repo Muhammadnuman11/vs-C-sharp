@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\Question 59\bin\Debug\net5.0\Question 59.exe
+C:\Users\user\Desktop\Question 59\bin\Debug\net5.0\Question 59.deps.json
+C:\Users\user\Desktop\Question 59\bin\Debug\net5.0\Question 59.runtimeconfig.json
+C:\Users\user\Desktop\Question 59\bin\Debug\net5.0\Question 59.runtimeconfig.dev.json
+C:\Users\user\Desktop\Question 59\bin\Debug\net5.0\Question 59.dll
+C:\Users\user\Desktop\Question 59\bin\Debug\net5.0\ref\Question 59.dll
+C:\Users\user\Desktop\Question 59\bin\Debug\net5.0\Question 59.pdb
+C:\Users\user\Desktop\Question 59\obj\Debug\net5.0\Question 59.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Question 59\obj\Debug\net5.0\Question 59.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Question 59\obj\Debug\net5.0\Question 59.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Question 59\obj\Debug\net5.0\Question 59.AssemblyInfo.cs
+C:\Users\user\Desktop\Question 59\obj\Debug\net5.0\Question 59.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Question 59\obj\Debug\net5.0\Question 59.dll
+C:\Users\user\Desktop\Question 59\obj\Debug\net5.0\ref\Question 59.dll
+C:\Users\user\Desktop\Question 59\obj\Debug\net5.0\Question 59.pdb
+C:\Users\user\Desktop\Question 59\obj\Debug\net5.0\Question 59.genruntimeconfig.cache

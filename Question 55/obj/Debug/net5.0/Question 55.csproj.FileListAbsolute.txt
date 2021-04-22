@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\Question 55\bin\Debug\net5.0\Question 55.exe
+C:\Users\user\Desktop\Question 55\bin\Debug\net5.0\Question 55.deps.json
+C:\Users\user\Desktop\Question 55\bin\Debug\net5.0\Question 55.runtimeconfig.json
+C:\Users\user\Desktop\Question 55\bin\Debug\net5.0\Question 55.runtimeconfig.dev.json
+C:\Users\user\Desktop\Question 55\bin\Debug\net5.0\Question 55.dll
+C:\Users\user\Desktop\Question 55\bin\Debug\net5.0\ref\Question 55.dll
+C:\Users\user\Desktop\Question 55\bin\Debug\net5.0\Question 55.pdb
+C:\Users\user\Desktop\Question 55\obj\Debug\net5.0\Question 55.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Question 55\obj\Debug\net5.0\Question 55.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Question 55\obj\Debug\net5.0\Question 55.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Question 55\obj\Debug\net5.0\Question 55.AssemblyInfo.cs
+C:\Users\user\Desktop\Question 55\obj\Debug\net5.0\Question 55.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Question 55\obj\Debug\net5.0\Question 55.dll
+C:\Users\user\Desktop\Question 55\obj\Debug\net5.0\ref\Question 55.dll
+C:\Users\user\Desktop\Question 55\obj\Debug\net5.0\Question 55.pdb
+C:\Users\user\Desktop\Question 55\obj\Debug\net5.0\Question 55.genruntimeconfig.cache
