@@ -1,31 +1,25 @@
-﻿using System.IO;
-using System;
+﻿using System;
 
-namespace question_50
+namespace question_52
 {
     class Program
     {
         static void Main(string[] args)
         {
-            //conerting the cpp expressions to c#
-            // question_50 part a
-        //Console.WriteLine(x*x+4*x-4);
-            //part b
-        //Console.WriteLine{(x+y)*x);
-            //part c
-        //Console.WriteLine((x+3*y)/(2*x-y));
-            //part d
-        // Console.WriteLine(1/(x*x+x+3));
-            //part f
-        // Console.WriteLine(2*b*c*c*c);
-            //part g
-        // Console.WriteLine((3*y)/(5-z));
-            //part h
-        // Console.WriteLine(area*sqrt(area));
-            // part i
-        // Console.WriteLine((x+32)/(y-32)-(x-2*y));
-            //part j
-        // Console.WriteLine((3*int*j*k+pow(k,9))/(7*i*k-5*sqrt(j+k)));
+            /*Question 52 part a
+        Console.WriteLine(1+8/2+((1*4)+(5*4))/4);*/ 
+            /* part b
+            Console.WriteLine((1+1+1+1)/2+(1+1+1)/3);*/
+            /* part c
+            Console.WritleLine(5*5+5/5+6);*/
+            /* part d
+            Console.WriteLine(((3+4)+(4*7))/5);*/
+            /* part e
+            Console.WriteLine((3*6*7*2)+12/2);*/
+            /* part f
+            Console.WriteLine(5-3*4%(6-1));*/
+            /* part g
+            Console.WriteLine((8*4*2+6)/2+4);*/
         }
     }
 }
